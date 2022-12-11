@@ -1,8 +1,6 @@
-#include<stdio.h>
-#include<string.h>
-/*
+#include <stdio.h>
+/**
  * main - print c programing with puts character
- *
  * Retern: 0
 */
 int main(void)
