@@ -1,10 +1,8 @@
-#include <stdlib.h>
-#include <time.h>
 #include <stdio.h>
-/*
- *main - Entry point
- *
- *Return: Always 0 (succes)
+#include <time.h>
+/**
+ * main - Entry point
+ * Return: Always 0 (succes)
  */
 int main(void)
 {
