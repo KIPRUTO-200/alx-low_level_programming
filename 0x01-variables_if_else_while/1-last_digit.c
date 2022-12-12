@@ -2,7 +2,7 @@
 #include <time.h>
 /**
  * main - Entry point
- * Return: Always 0 (succes)
+ * Return: Always 0 (success)
  */
 int main(void)
 {
@@ -10,7 +10,7 @@ int main(void)
 
 	int m;
 
-	srand(time(0));
+	rand(time(0));
 	n = rand() - RAND_MAX / 2;
 	m = n % 10;
 	if (m > 5)
